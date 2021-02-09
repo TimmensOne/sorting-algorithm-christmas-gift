@@ -1,18 +1,20 @@
 import random
 
-presents_list_example = [(1, 'Björn'), (2, 'Timon'), (3, 'Björn'), (4, 'Björn'),
-                        (5, 'Manuela'), (6, 'Julian'), (7, 'Manuela'), (8, 'Manuela'), 
+presents_list_example = [(1, 'Bernd'), (2, 'Timon'), (3, 'Bernd'), (4, 'Bernd'),
+                        (5, 'Lisa'), (6, 'Justin'), (7, 'Lisa'), (8, 'Lisa'), 
                         (9, 'Timon'), (10, 'Timon'), (11, 'Timon'), (12, 'Timon'), 
-                        (13, 'Timon'), (14, 'Julian'), (15, 'Manuela'), (16, 'Timon'), 
-                        (17, 'Julian'), (18, 'Julian'), (19, 'Julian'), (20, 'Julian'),
-                        (21, 'Julian'), (22, 'Julian'), (23, 'Julian'), (24, 'Julian'),
-                        (25, 'Björn'), (26, 'Timon'), (27, 'Julian'), (28, 'Julian'),
-                        (29, 'Julian')]
-presents_name_list = ['Björn', 'Timon', 'Björn', 'Björn', 'Manuela', 'Julian', 'Manuela', 'Manuela', 'Timon', 
-                    'Timon', 'Timon', 'Timon', 'Timon', 'Julian', 'Manuela', 'Timon', 'Julian', 'Julian', 
-                    'Julian', 'Julian', 'Julian', 'Julian', 'Julian', 'Julian', 'Björn', 'Timon', 'Julian',
-                    'Julian', 'Julian']
-name_list = ['Timon', 'Julian', 'Manuela', 'Björn']
+                        (13, 'Timon'), (14, 'Justin'), (15, 'Lisa'), (16, 'Timon'), 
+                        (17, 'Justin'), (18, 'Justin'), (19, 'Justin'), (20, 'Justin'),
+                        (21, 'Justin'), (22, 'Justin'), (23, 'Justin'), (24, 'Justin'),
+                        (25, 'Bernd
+                    '), (26, 'Timon'), (27, 'Justin'), (28, 'Justin'),
+                        (29, 'Justin')]
+presents_name_list = ['Bernd', 'Timon', 'Bernd', 'Bernd', 'Lisa', 'Justin', 'Lisa', 'Lisa', 'Timon', 
+                    'Timon', 'Timon', 'Timon', 'Timon', 'Justin', 'Lisa', 'Timon', 'Justin', 'Justin', 
+                    'Justin', 'Justin', 'Justin', 'Justin', 'Justin', 'Justin', 'Bernd
+                ', 'Timon', 'Justin',
+                    'Justin', 'Justin']
+name_list = ['Timon', 'Justin', 'Lisa', 'Bernd']
 count_list = []
 probability_list = []
 
